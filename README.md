@@ -12,13 +12,9 @@ The business wants to understand:
 
 The goal is to dive deep into customer behavior, identify pain points, and provide actionable insights that the business can use to enhance customer satisfaction and loyalty.
 
----
-
 ## Project Overview
 
 The dataset includes customer demographics, service usage, contract details, and churn information.
-
----
 
 ## Key Questions Answered
 
@@ -42,9 +38,6 @@ The dataset includes customer demographics, service usage, contract details, and
 18. **Who are the high-value customers based on CLV?**  
 19. **How does CLV compare between churned and non-churned customers?**  
 
-These questions helped uncover critical insights into customer behavior, reasons for churn, and key areas to improve customer retention strategies. 
-
----
 
 ## Key Insights
 
@@ -73,8 +66,6 @@ These questions helped uncover critical insights into customer behavior, reasons
 7. **Low Engagement:**
    - **56%** of churned customers had **no promotional offers**.
    - Lack of referrals indicates low customer loyalty.
-
----
 
 ## Recommendations
 
